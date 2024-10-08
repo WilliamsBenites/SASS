@@ -1,0 +1,22 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 32px;
+  background-color: #3498db;
+  color: white;
+}
+.navbar-brand {
+  font-size: 30px;
+  font-weight: bold;
+}
+.navbar-menu {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+.navbar-menu-item a {
+  text-decoration: none;
+  color: white;
+  font-family: "Arial", sans-serif;
+}/*# sourceMappingURL=style.css.map */
